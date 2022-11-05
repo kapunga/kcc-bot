@@ -1,0 +1,10 @@
+{
+  "apps": {
+    "kidscoopcambridge": {
+      "name": "kidscoopcambridge",
+      "app_id": "A04AB19DMBJ",
+      "team_id": "TCA5MCG0Y"
+    }
+  },
+  "default": "kidscoopcambridge"
+}
